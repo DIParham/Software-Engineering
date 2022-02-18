@@ -32,7 +32,7 @@ It aimed to test against invalid input. In this instance, it is testing to ensur
 This ensured that the exception was raised when the remove function is called. Since the taskID was invalid, the program raised the exception. However, in an instance that the taskID was valid, it would fail the test as the exception would not be raised. 
 
 ### Artifact Link:
-[Enhancement One Repository](https://github.com/DIParham/Software-Engineering)
+[Software Engineering Repository](https://github.com/DIParham/Software-Engineering)
 
 ### ePortfolio Links:
 
@@ -40,6 +40,6 @@ This ensured that the exception was raised when the remove function is called. S
 
 [Professional Assessment](https://diparham.github.io/ePortfolio/)
 
-[Enhancement Two](https://diparham.github.io/Data-Structures/)
+[Data Structures and Algorithms](https://diparham.github.io/Data-Structures/)
 
-[Enhancement Three](https://diparham.github.io/Databases/)
+[Databases](https://diparham.github.io/Databases/)
